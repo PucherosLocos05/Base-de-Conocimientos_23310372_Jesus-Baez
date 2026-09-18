@@ -1,0 +1,279 @@
+{
+  "main": {
+    "id": "66a3fb744e6e2d42",
+    "type": "split",
+    "children": [
+      {
+        "id": "b03077ab889ae70e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4352f0ce0eb342e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "000_Indice_Superman.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "000_Indice_Superman"
+            }
+          },
+          {
+            "id": "8b7b3bb72ebd6173",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ensayo - El Mito de la Inmunidad Moral.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ensayo - El Mito de la Inmunidad Moral"
+            }
+          },
+          {
+            "id": "3f7c297265b17e63",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Brightburn.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Brightburn"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1d8f556e8b690b25",
+    "type": "split",
+    "children": [
+      {
+        "id": "692e1d02f493df7a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "da9ef6c9715853b3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "f677c31e62a88c1a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "fa5dd2ac52a5a4eb",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5cf4a336bd56ae27",
+    "type": "split",
+    "children": [
+      {
+        "id": "5e3d3323863a92c7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f5f5052782c6405b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "wiki/Welcome to Karpathy LLM Wiki.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes"
+            }
+          },
+          {
+            "id": "38fa6ceb303b6f59",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "wiki/Welcome to Karpathy LLM Wiki.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes"
+            }
+          },
+          {
+            "id": "def1ec89d28a9325",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "6c5ee7fdf782d656",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas las propiedades"
+            }
+          },
+          {
+            "id": "f48d8048ed1c0520",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "wiki/Welcome to Karpathy LLM Wiki.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema"
+            }
+          },
+          {
+            "id": "b5ba9b9d07bb248f",
+            "type": "leaf",
+            "state": {
+              "type": "llm-wiki-query-view",
+              "state": {},
+              "icon": "message-circle",
+              "title": "Query Wiki - Conversational Query"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "karpathywiki:Ingest current file": false,
+      "karpathywiki:Query wiki": false
+    }
+  },
+  "active": "4352f0ce0eb342e7",
+  "lastOpenFiles": [
+    "wiki/Welcome to Karpathy LLM Wiki.md",
+    "Brightburn.md",
+    "El Superman Malvado Popular Últimamente.md",
+    "Superman Malvado.jpg",
+    "Superman Injustice IMG.jpg",
+    "Superman IMG.png",
+    "Injustice y su Impacto.md",
+    "Zack Snyder.md",
+    "Zack Snyder IMG.jpg",
+    "Superman.md",
+    "Superman (2025).md",
+    "Superman (1978).md",
+    "Superman 1978.jpg",
+    "Smallville.md",
+    "Small ville IMG.jpg",
+    "Símbolo de la S.md",
+    "Simbolo S IMG.png",
+    "Sentry.md",
+    "Sentry.jpg",
+    "Omni-Man.md",
+    "Omni-Man.jpg",
+    "Radio y Cine Clásico.md",
+    "Muerte de superman.jpg",
+    "La Muerte de Superman.md",
+    "Metropolis.md",
+    "Lois Lane.md",
+    "Lex Luthor.md",
+    "Krypton.md",
+    "Joe Shuster.md",
+    "Jerry Siegel.md",
+    "James Gunn.md",
+    "Homelander.md",
+    "Clark Kent.md",
+    "000_Indice_Superman.md",
+    "wiki",
+    "Universo Cinematográfico.md",
+    "wiki/schema/config.md",
+    "wiki/schema",
+    "Sin título.canvas",
+    "Sin nombre",
+    "Sin título.base",
+    "wiki/sources",
+    "wiki/concepts",
+    "wiki/entities"
+  ]
+}

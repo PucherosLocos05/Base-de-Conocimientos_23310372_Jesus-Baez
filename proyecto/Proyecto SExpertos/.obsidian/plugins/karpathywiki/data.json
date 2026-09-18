@@ -1,0 +1,86 @@
+{
+  "provider": "custom",
+  "apiKey": "",
+  "openAICodexSecretId": "karpathywiki-openai-codex",
+  "providerApiKeySecretId": "karpathywiki-provider-api-key",
+  "openAICodexModels": [],
+  "openAICodexModelsFetchedAt": 0,
+  "baseUrl": "https://integrate.api.nvidia.com/v1",
+  "model": "moonshotai/kimi-k3",
+  "markdownConversionBackend": "native",
+  "wikiFolder": "wiki",
+  "language": "en",
+  "wikiLanguage": "en",
+  "useCustomWikiLanguage": false,
+  "availableModels": [],
+  "useCustomModel": true,
+  "maxConversationHistory": 30,
+  "queryHistory": [
+    {
+      "role": "user",
+      "content": "Hola\n",
+      "timestamp": 1789313510365
+    },
+    {
+      "role": "assistant",
+      "content": "<think>User says \"Hola.\" Must respond in English per instructions. Mentioning the wiki is empty, suggest ingesting sources.</think>\n\nHello! 👋\n\nI'm your Wiki assistant. Just to let you know: the Wiki is currently **empty**, which means I don't have any ingested documents or sources to draw from yet.\n\nTo get the most out of me, I'd suggest you **ingest some sources first** (documents, articles, notes, etc.) so I can answer your questions based on your own knowledge base.\n\nIn the meantime, feel free to ask me anything — I can still answer based on my general knowledge. How can I help you today?",
+      "timestamp": 1789316112137
+    },
+    {
+      "role": "user",
+      "content": "\"Genera un resumen detallado sobre [[Jerry Siegel]] y [[Joe Shuster]], explicando cómo crearon a Superman en la [[Era de Oro]], sus inspiraciones socioeconómicas y su conflicto con [[Derechos de Autor y DC Comics]].\"",
+      "timestamp": 1789319283589
+    },
+    {
+      "role": "assistant",
+      "content": "<think>Answer in English (required), from general knowledge, note wiki is empty.</think>\n\n**Note:** The Wiki is currently empty, so the requested sources aren't available. This summary is based on my general knowledge. I recommend ingesting relevant documents (e.g., about Jerry Siegel, Joe Shuster, the Golden Age, and the copyright disputes) so I can provide more accurate, source-based answers in the future.\n\n---\n\n# Jerry Siegel & Joe Shuster: The Creators of Superman\n\n## Origins and Friendship\nJerry Siegel (1914–1996) and Joe Shuster (1914–1992) met as teenagers at Glenville High School in Cleveland, Ohio, in the early 1930s. Both were sons of Jewish immigrant families — Siegel's father was a Lithuanian-born tailor, and Shuster's family came from Canada and the Netherlands. They shared a passion for science fiction pulp magazines, movies, and newspaper comic strips.\n\n## The Creation of Superman (1933–1938)\nSuperman evolved through several iterations:\n\n1. **1933 – \"The Reign of the Super-Man\":** A short story in their self-published fanzine *Science Fiction*, featuring a villainous bald telepath — nothing like the hero he would become.\n2. **1934 – Reinvention:** Siegel reworked the concept into a heroic, super-strong character. Shuster designed the iconic look: cape, tights, and the \"S\" shield, inspired partly by circus strongmen and pulp heroes like Doc Savage.\n3. **Rejection after rejection:** They shopped Superman to newspaper syndicates for years without success, at one point Shuster reportedly burned the early art in frustration.\n4. **1938 – Publication:** Superman debuted in **Action Comics #1** (June 1938), published by National Allied Publications (later DC Comics). It was an instant sensation and launched the **Golden Age of Comic Books (c. 1938–1956)**, defining the entire superhero genre.\n\n## Socioeconomic Inspirations\nSuperman was deeply shaped by the Great Depression and the creators' backgrounds:\n- **Working-class hero:** Clark Kent was a modest, underpaid reporter — a fantasy of quiet dignity for struggling readers.\n- **Social justice crusader:** Early Superman fought corrupt businessmen, slumlords, and war profiteers, reflecting New Deal-era anxieties and populist anger.\n- **The immigrant experience:** Superman is literally an alien from Krypton raised by adoptive American parents — widely read as a metaphor for the Jewish-American immigrant experience: assimilating while carrying a hidden heritage. His Kryptonian name, **Kal-El**, echoes Hebrew (\"voice/vessel of God\").\n- **The Moses parallel:** Sent away as a baby in a vessel to escape destruction — a narrative some scholars tie both to the biblical Moses and, more darkly, to rising antisemitism in Europe before World War II.\n- **Personal tragedy:** Siegel's father died during a robbery of his clothing store in 1932; Siegel later suggested this influenced his fantasy of a hero immune to bullets and injustice.\n\n## The Copyright Conflict with DC Comics\nThis is one of the most famous creator-rights battles in publishing history:\n\n- **The $130 sale:** For the check delivered with *Action Comics #1*, Siegel and Shuster signed away all rights to Superman for **$130**. The character eventually generated billions in revenue.\n- **201(c) provision and the 1947 lawsuit:** The creators sued National/DC in 1947 to reclaim rights, arguing their employment agreements didn't transfer ownership of Superman. The case was settled for roughly $94,000, and both men's bylines were removed from the comic.\n- **The 1970s campaign:** After the 1978 *Superman* film's announcement, Siegel wrote a public plea. Media attention (including Neal Adams' advocacy) pressured Warner Communications into granting them an **annual stipend, medical benefits, and restored \"Created by Jerry Siegel and Joe Shuster\" credits** in 1975.\n- **The 1976 Copyright Act:** Changes to US copyright law allowed heirs to terminate transfers after set periods. Siegel's heirs filed termination notices in 1999; litigation continued for decades, with courts granting the heirs partial rights (such as early depiction elements) in rulings in **2008 and 2013**, though DC retained extensive rights overall.\n- **Legacy:** The saga became a rallying point for **creator rights** movements in the comics industry, influencing later disputes (e.g., Jack Kirby's heirs vs. Marvel) and pushing publishers toward more favorable creator contracts.\n\n## Summary\nTwo Depression-era teenagers from Cleveland invented the first modern superhero, embedding their immigrant experience and economic frustrations into a character that launched an entire industry — yet they had to fight for decades for recognition and compensation, making their story both a triumph of creativity and a cautionary tale about intellectual property.\n\n---\n\nWould you like me to expand on any section? Also, if you ingest sources on these topics, I can regenerate this summary based strictly on your Wiki's materials.",
+      "timestamp": 1789319410677
+    },
+    {
+      "role": "user",
+      "content": "quien es superman\n",
+      "timestamp": 1789321409150
+    },
+    {
+      "role": "assistant",
+      "content": "<think>Answer in English, brief, note wiki empty.</think>\n\n**Reminder:** The Wiki is still empty, so I'm answering from general knowledge. Consider ingesting sources for more tailored responses!\n\n---\n\n# Who is Superman?\n\n**Superman** is one of the most famous superheroes in history, created by writer **Jerry Siegel** and artist **Joe Shuster** in 1938, when he debuted in *Action Comics #1*, launching the Golden Age of comics.\n\n## His Story\n- **Real name:** Kal-El, born on the distant planet **Krypton**.\n- As a baby, his parents sent him to Earth in a rocket just before Krypton's destruction.\n- He was found and adopted by farmers **Jonathan and Martha Kent** in Smallville, Kansas, who raised him as **Clark Kent**.\n- As an adult, he moves to **Metropolis**, where he works as a journalist at the *Daily Planet* alongside his love interest, **Lois Lane**.\n\n## His Powers\nUnder Earth's yellow sun, his Kryptonian physiology grants him:\n- Super strength and speed\n- Flight\n- Invulnerability\n- Heat vision, freeze breath, X-ray vision, and super hearing\n\n## His Weaknesses\n- **Kryptonite:** Radioactive fragments of his home planet\n- Magic\n- Red sun radiation (which nullifies his powers)\n\n## His Legacy\nSuperman embodies the ideal of \"truth, justice, and the American way.\" He's an alien immigrant who chooses to protect his adopted world — a symbol of hope, humility, and moral strength. He is the archetype from which virtually all modern superheroes descend.\n\nWant me to go deeper into anything — his enemies (like Lex Luthor), his movies, or his cultural impact?",
+      "timestamp": 1789321505932
+    }
+  ],
+  "enableSchema": true,
+  "tagVocabularyMode": "default",
+  "customEntityTags": "",
+  "customConceptTags": "",
+  "extractionGranularity": "standard",
+  "autoWatchSources": false,
+  "autoWatchMode": "notify",
+  "autoWatchDebounceMs": 5000,
+  "watchedFolders": [],
+  "periodicLint": "off",
+  "startupCheck": true,
+  "startupCheckNoticeLevel": "visible",
+  "autoSmartFix": false,
+  "autoIngestNotificationLevel": "notice",
+  "showAdvancedSettings": false,
+  "createWelcomeNote": true,
+  "pageGenerationConcurrency": 3,
+  "batchDelayMs": 500,
+  "lastOfferedQueryHash": "",
+  "llmReady": true,
+  "maxTokensPerCall": 0,
+  "disableThinking": false,
+  "advancedSettingsMode": "default",
+  "forcePdfSupport": false,
+  "writePdfMarkdownToVault": false,
+  "skipMentionOnlyCandidates": false,
+  "gateDissentStubs": false,
+  "createStubsForUnresolvableLinks": true,
+  "slugCase": "lower",
+  "customQueryInstructions": "",
+  "bedrockRegion": "us-east-1",
+  "bedrockAuthMethod": "api-key",
+  "bedrockSsoStartUrl": "",
+  "_migrated_v1_23_0_startup_notice": true,
+  "_migrated_v1_25_3_secret_storage": true,
+  "_migrated_v1_27_0_markdown_conversion_backend": true
+}
